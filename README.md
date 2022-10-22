@@ -1,4 +1,7 @@
 # Personal-Research-Project(YYYY-MM-DD)
+
+Google Scholar Profile: https://scholar.google.com/citations?user=uvAql68AAAAJ&hl=en
+
 ![Segmentation_With_Pytorch(_4_)Librariries](https://user-images.githubusercontent.com/56412471/193456558-d0268a34-52d3-49cb-b10b-339f73859346.PNG)
 --------------------------------------------------------------------------------------------------------------
 ![1](https://user-images.githubusercontent.com/56412471/193455927-8075ec8e-e564-4b64-8671-b11ce600fa55.PNG)
